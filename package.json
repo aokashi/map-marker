@@ -1,0 +1,22 @@
+{
+  "name": "map-marker",
+  "version": "0.0.1",
+  "description": "World Desribing Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aokashi/map-marker.git"
+  },
+  "author": "Aokashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aokashi/map-marker/issues"
+  },
+  "homepage": "https://github.com/aokashi/map-marker#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
